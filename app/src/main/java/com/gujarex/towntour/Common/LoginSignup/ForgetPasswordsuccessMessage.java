@@ -1,0 +1,16 @@
+package com.gujarex.towntour.Common.LoginSignup;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+import com.gujarex.towntour.R;
+
+public class ForgetPasswordsuccessMessage extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_forget_passwordsuccess_message);
+    }
+}

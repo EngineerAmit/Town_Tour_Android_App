@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "2520558641",
+    "project_id": "town-tour-82dee",
+    "storage_bucket": "town-tour-82dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2520558641:android:a1c4732bc23ca189f97910",
+        "android_client_info": {
+          "package_name": "com.gujarex.towntour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2520558641-vmd0kbt8b4g1jd365mlvqk35bs2u4tm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gujarex.towntour",
+            "certificate_hash": "41903f4dc3f04fd80927953277251e628f26eae6"
+          }
+        },
+        {
+          "client_id": "2520558641-1aocf025mmuu81nl2llidak5tgpegr0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz08WvB9_l2LfC65CElIkYq1PsDdoIqXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2520558641-1aocf025mmuu81nl2llidak5tgpegr0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
