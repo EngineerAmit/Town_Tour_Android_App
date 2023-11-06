@@ -94,4 +94,10 @@
     <string name="validateAgeToast">You are not eligible to apply</string>
     <string name="OTpassword">Enter One Time Password Sent On</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Contributing second times -->
+    <string name="validateAgeToastnew">You are not eligible to apply new</string>
+    <string name="OTpasswordnew">Enter One Time Password Sent On new</string>
+    <string name="hello_blank_fragmentnew">Hello blank fragment new</string>
 </resources>

@@ -25,4 +25,10 @@
     <color name="card3">#f7c59f</color>
     <color name="card4">#b8d7f5</color>
     <color name="transparent">#00000000</color>
+
+    <!-- Contributing to this project -->
+    
+    <color name="colorPrimarynew">#ffe400</color>
+    <color name="colorPrimaryDarknew">#ffa600</color>
+    <color name="colorAccentnew">#272727</color>
 </resources>
